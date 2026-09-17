@@ -7,10 +7,10 @@ icon: plug
 author:
   name: Erik Konrad
   email: erik.konrad@zebra.de
-homepage: https://github.com/mindbox/grav-plugin-directus-router
+homepage: https://github.com/zebra-group/grav-plugin-directus-router
 keywords: grav, plugin, etc
-bugs: https://github.com/mindbox/grav-plugin-directus-router/issues
-docs: https://github.com/mindbox/grav-plugin-directus-router/blob/develop/README.md
+bugs: https://github.com/zebra-group/grav-plugin-directus-router/issues
+docs: https://github.com/zebra-group/grav-plugin-directus-router/blob/develop/README.md
 license: MIT
 
 dependencies:
