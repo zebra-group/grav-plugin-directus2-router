@@ -2,7 +2,7 @@
 
 The **Directus Router** Plugin is an extension for [Grav CMS](http://github.com/getgrav/grav). redirects expired urls to new routes configured in directus
 
-This extension reads routing data from a directus backend and reroutes deprecated urls and requres the [directus2 plugin](https://github.com/mindbox/grav-plugin-directus2).
+This extension reads routing data from a directus backend and reroutes deprecated urls and requres the [directus2 plugin](https://github.com/zebra-group/grav-plugin-directus2).
 
 ## Configuration
 
@@ -47,18 +47,18 @@ To install the plugin automaticall with `bin/grav install`, add the following to
 ```
 git:
     directus2:
-        url: https://github.com/mindbox/grav-plugin-directus2
+        url: https://github.com/zebra-group/grav-plugin-directus2
         path: user/plugins/directus2
         branch: main
     directus2-router:
-        url: https://github.com/mindbox/grav-plugin-directus2-router
+        url: https://github.com/zebra-group/grav-plugin-directus2-router
         path: user/plugins/directus2-router
         branch: main
 ```
 
 ### Manual Installation
 
-To install the plugin manually, download the zip-version of this repository and unzip it under `/your/site/grav/user/plugins`. Then rename the folder to `directus-router`. You can find these files on [GitHub](https://github.com/mindbox/grav-plugin-directus2-router).
+To install the plugin manually, download the zip-version of this repository and unzip it under `/your/site/grav/user/plugins`. Then rename the folder to `directus-router`. You can find these files on [GitHub](https://github.com/zebra-group/grav-plugin-directus2-router).
 
 You should now have all the plugin files under
 
